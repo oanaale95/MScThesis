@@ -1,4 +1,4 @@
-# MScThesis
+# MSc. Thesis
 
 This project proposes a way to analyze the sentiment of a new technology, more specific that of generative language models (GLMs) based on social media data.
 As data, the project uses tweets about ChatGPT (a proxy product of GLMs) and identifies the industries to which users discussing this technology pertain, as well as their sentiment. 
