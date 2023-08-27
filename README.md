@@ -8,3 +8,5 @@ The notebooks in this repository cover the following steps
 2. Topic modeling based on unsupervised machine learning (LDA)
 3. Sentiment polarity with the help of VADER.
 
+(Note: Once the University will publish the MSc. Thesis, a link to it will be added)
+
